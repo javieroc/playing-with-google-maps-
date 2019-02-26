@@ -11,7 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "react-dom": "^16.8.2",
+    "react-google-maps": "^9.4.5",
+    "recompose": "^0.30.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.3",
